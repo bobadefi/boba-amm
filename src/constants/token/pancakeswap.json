@@ -11,9 +11,9 @@
   "keywords": ["pancake", "default"],
   "tokens": [
     {
-      "name": "Goose Golden Egg",
-      "symbol": "EGG",
-      "address": "0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6",
+      "name": "Boba Finance Token",
+      "symbol": "BOBA",
+      "address": "0x29D913c2A0b5967e77c3dCC796b151C14b512707",
       "chainId": 56,
       "decimals": 18
     },
