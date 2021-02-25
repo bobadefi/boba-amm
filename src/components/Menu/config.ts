@@ -66,10 +66,10 @@ const config: MenuEntry[] = [
         label: "Github",
         href: "https://github.com/bobadefi/",
       },
-      // {
-      //   label: "Docs",
-      //   href: "https://goosedefi.gitbook.io/goose-finance/",
-      // },
+      {
+        label: "Docs",
+        href: "https://bobafinance.gitbook.io/boba-finance/",
+      },
       {
         label: "Blog",
         href: "https://bobafinance.medium.com/",
