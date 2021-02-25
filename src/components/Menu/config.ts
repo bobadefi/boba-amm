@@ -24,12 +24,12 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://fin.bobafi.com/farms'
+    href: 'https://bobafi.com/farms'
   },
   {
     label: 'Cups',
     icon: 'PoolIcon',
-    href: 'https://fin.bobafi.com/cups'
+    href: 'https://bobafi.com/cups'
   },
   // {
   //   label: 'Lottery',
@@ -42,7 +42,7 @@ const config: MenuEntry[] = [
     items: [
       {
         label: 'PancakeSwap',
-        href: 'https://pancakeswap.info/token/0xF952Fc3ca7325Cc27D15885d37117676d25BfdA6',
+        href: 'https://pancakeswap.info/token/0x29D913c2A0b5967e77c3dCC796b151C14b512707',
       },
   //     {
   //       label: 'CoinGecko',

@@ -1984,7 +1984,7 @@
 
 "@pancakeswap-libs/uikit@bobadefi/boba-uikit":
   version "0.10.2"
-  resolved "https://codeload.github.com/bobadefi/boba-uikit/tar.gz/15cc99adca75b3e0aaeade687f53b7f4feb1b957"
+  resolved "https://codeload.github.com/bobadefi/boba-uikit/tar.gz/1ae8e197c687b792866a71d34d09e573411202f8"
   dependencies:
     "@types/lodash" "^4.14.162"
     "@types/styled-system" "^5.1.10"
