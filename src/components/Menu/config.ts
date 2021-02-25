@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://bobafi.com/'
+    href: 'https://bobadefi.com/'
   },
   {
     label: 'Trade',
@@ -24,12 +24,12 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://bobafi.com/farms'
+    href: 'https://bobadefi.com/farms'
   },
   {
     label: 'Cups',
     icon: 'PoolIcon',
-    href: 'https://bobafi.com/cups'
+    href: 'https://bobadefi.com/cups'
   },
   // {
   //   label: 'Lottery',
